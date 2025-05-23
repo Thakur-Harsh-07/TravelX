@@ -1,5 +1,5 @@
 import Paris from "../assets/Paris.jpg"
-import Bali from "../assets/bali.jpg"
+import Bali from "../assets/Bali.jpg"
 import NewYork from "../assets/New York.jpg"
 import tokyo from "../assets/Tokyo.jpg"
 import India from "../assets/india.jpg"
